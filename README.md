@@ -1,1 +1,1 @@
-"# Deparment-Lesson data structures project." 
+"# Processing data in n-n relationships using data structures and saving to json file." 
